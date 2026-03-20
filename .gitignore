@@ -3,3 +3,9 @@ frontend/node_modules/
 .env
 dist/
 build/
+.next/
+frontend/.next/
+__pycache__/
+*.pyc
+*.db
+chroma_db/
